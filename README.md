@@ -1,0 +1,1 @@
+echo "Price Tracking Automation using Web Scraper"
